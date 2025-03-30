@@ -31,7 +31,10 @@ The app requires the following Python packages:
 - `plotly`
 
 ## Screenshots
-(Add screenshots here if available)
+
+![image](https://github.com/user-attachments/assets/75e9c14f-2702-438a-b21f-801790133551)
+![image](https://github.com/user-attachments/assets/2ffabe01-8f59-4a8b-a7ba-21b4dc5aecea)
+
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit a pull request.
